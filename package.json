@@ -1,0 +1,20 @@
+{
+  "name": "ecomerce-page",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Imurillo07: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@github.com/Imurillo07/Ecomerce_Page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Imurillo07/Ecomerce_Page/issues"
+  },
+  "homepage": "https://github.com/Imurillo07/Ecomerce_Page#readme",
+  "description": ""
+}
